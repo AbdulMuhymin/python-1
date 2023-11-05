@@ -1,0 +1,17 @@
+.container{
+   background-color: #EAE7DC;
+}
+.banner{
+   background-color: #001B2B;
+   width: 100%;
+   height: 200px;
+   margin-bottom: 50px;
+   position: relative;
+}
+.banner-text{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: transform;
+   color: white;
+}
